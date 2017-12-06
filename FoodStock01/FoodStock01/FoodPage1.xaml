@@ -28,7 +28,7 @@
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
 
-                <Label Text="食材リスト" TextColor="DodgerBlue"
+                <Label Text="食材リスト。" TextColor="DodgerBlue"
                        BackgroundColor="Transparent"
                        Grid.Column="0" Grid.Row="0"/>
                 <StackLayout Grid.Column="1" Grid.Row="0"
